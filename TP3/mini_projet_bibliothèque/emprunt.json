@@ -1,0 +1,58 @@
+[
+  {
+    "emprunt_id": "67def7d82d42e39dc9e824da",
+    "isbn": "67def79fdfd6e126496d2d62",
+    "utilisateur": "Owen Horton",
+    "date_emprunt": "2019-02-04",
+    "date_retour": null
+  },
+  {
+    "emprunt_id": "67def7d8ec3ccb27f33950e0",
+    "isbn": "67def79ffdb216e7c66d4f29",
+    "utilisateur": "Kenya Powell",
+    "date_emprunt": "2020-11-15",
+    "date_retour": null
+  },
+  {
+    "emprunt_id": "67def7d896cd01bf62b2160f",
+    "isbn": "67def79f1155df36de3507c2",
+    "utilisateur": "Erna Holcomb",
+    "date_emprunt": "2021-09-24",
+    "date_retour": null
+  },
+  {
+    "emprunt_id": "67def7d841421723cfa91c09",
+    "isbn": "67def79f5808a59722198a46",
+    "utilisateur": "Carla Padilla",
+    "date_emprunt": "2022-12-12",
+    "date_retour": null
+  },
+  {
+    "emprunt_id": "67def79f2ff82de2c948c4a2",
+    "isbn": "67def7d8c61ecead3fbce0db",
+    "utilisateur": "Wise Suarez",
+    "date_emprunt": "2022-08-10",
+    "date_retour": null
+  },
+  {
+    "emprunt_id": "67def858fe61f187caa9977d",
+    "isbn": "67def79f984fc2cd55055f02",
+    "utilisateur": "Pacheco Harrison",
+    "date_emprunt": "2024-12-09",
+    "date_retour": "2025-01-09"
+  },
+  {
+    "emprunt_id": "67def858d59c960437fd9f68",
+    "isbn": "67def79fe3281f5871f9ea7e",
+    "utilisateur": "Cooke Crawford",
+    "date_emprunt": "2022-09-17",
+    "date_retour": "2022-10-17"
+  },
+  {
+    "emprunt_id": "67def8580636381e899e4081",
+    "isbn": "67def79faae243f8b088358a",
+    "utilisateur": "Helena Britt",
+    "date_emprunt": "2017-06-02",
+    "date_retour": "2017-07-02"
+  }
+]

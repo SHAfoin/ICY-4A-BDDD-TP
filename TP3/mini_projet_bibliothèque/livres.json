@@ -1,0 +1,72 @@
+[
+  {
+    "isbn": "67def79f984fc2cd55055f02",
+    "titre": "VELOS",
+    "auteur": "Sanford Logan",
+    "annee_publication": 1505,
+    "disponible": true
+  },
+  {
+    "isbn": "67def79fe3281f5871f9ea7e",
+    "titre": "OVOLO",
+    "auteur": "Craig Daniels",
+    "annee_publication": 1782,
+    "disponible": true
+  },
+  {
+    "isbn": "67def79fdfd6e126496d2d62",
+    "titre": "TASMANIA",
+    "auteur": "Booth Carlson",
+    "annee_publication": 1734,
+    "disponible": false
+  },
+  {
+    "isbn": "67def79faae243f8b088358a",
+    "titre": "NORALEX",
+    "auteur": "Bush Ayers",
+    "annee_publication": 1576,
+    "disponible": true
+  },
+  {
+    "isbn": "67def79ffdb216e7c66d4f29",
+    "titre": "COMTREK",
+    "auteur": "Sears Maxwell",
+    "annee_publication": 1663,
+    "disponible": false
+  },
+  {
+    "isbn": "67def79f1155df36de3507c2",
+    "titre": "NETERIA",
+    "auteur": "Chambers Marsh",
+    "annee_publication": 1529,
+    "disponible": false
+  },
+  {
+    "isbn": "67def79f8300bd8af5a4a79e",
+    "titre": "VIOCULAR",
+    "auteur": "Bennett Moreno",
+    "annee_publication": 1861,
+    "disponible": true
+  },
+  {
+    "isbn": "67def79f5808a59722198a46",
+    "titre": "VETRON",
+    "auteur": "Clare Aguirre",
+    "annee_publication": 1623,
+    "disponible": false
+  },
+  {
+    "isbn": "67def79f2ff82de2c948c4a2",
+    "titre": "PAPRIKUT",
+    "auteur": "Glover Green",
+    "annee_publication": 1965,
+    "disponible": false
+  },
+  {
+    "isbn": "67def79f516c1deff2908ff2",
+    "titre": "ZILCH",
+    "auteur": "Marilyn Gates",
+    "annee_publication": 1685,
+    "disponible": true
+  }
+]
